@@ -1,1 +1,0 @@
-# advanced_sql_hw_jmg
